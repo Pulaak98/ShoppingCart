@@ -1,0 +1,30 @@
+.cart-item {
+    width: 200px;
+    padding: 20px;
+
+}
+
+.cart-item p {
+    margin: 6px 0;
+    color: #374151;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.button {
+    display: flex;
+    gap: 10px;
+}
+
+.button button {
+    padding: 10px 20px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    background: #ff4141;
+    color: white;
+    margin-bottom: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
